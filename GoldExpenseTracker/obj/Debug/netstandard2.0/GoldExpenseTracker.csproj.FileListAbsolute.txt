@@ -1,0 +1,16 @@
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\bin\Debug\netstandard2.0\GoldExpenseTracker.deps.json
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\bin\Debug\netstandard2.0\GoldExpenseTracker.dll
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\bin\Debug\netstandard2.0\ref\GoldExpenseTracker.dll
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\bin\Debug\netstandard2.0\GoldExpenseTracker.pdb
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\GoldExpenseTracker.csproj.AssemblyReference.cache
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\AddExpense.xaml.g.cs
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\GoldExpenseTracker.AssemblyInfoInputs.cache
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\GoldExpenseTracker.AssemblyInfo.cs
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\GoldExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\GoldExpenseTracker.dll
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\ref\GoldExpenseTracker.dll
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\GoldExpenseTracker.pdb
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker\obj\Debug\netstandard2.0\AddMonthlyGoal.xaml.g.cs

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "oYShkYpfE8XvSIGcMX5or9y1UfmuFyfaJn90ld14FuT2Hva658TxAgVhgbyS57u6vexmo5MaLXHyvj9dPYf/Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\folaa\\source\\repos\\GoldExpenseTracker\\GoldExpenseTracker\\GoldExpenseTracker\\GoldExpenseTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\folaa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\folaa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\folaa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

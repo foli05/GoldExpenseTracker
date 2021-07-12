@@ -1,0 +1,1 @@
+C:\Users\folaa\source\repos\GoldExpenseTracker\GoldExpenseTracker\GoldExpenseTracker.UWP\GoldExpenseTracker.UWP.csproj;x86

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:model="clr-namespace:GoldExpenseTracker.Models"
+             x:Class="GoldExpenseTracker.MainPage">
+
+
+
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="+" Clicked="OnAddExpenseClicked"/>
+
+
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <Button Text="Add Expense" Clicked="OnAddExpenseClicked"/>
+
+
+        <ListView x:Name="ExpensesListView"
+                  Margin="20"
+                  ItemSelected="OnExpenseItemSelected">
+
+            <ListView.ItemTemplate>
+            
+                <DataTemplate x:DataType="model:Expense">
+            
+                    <TextCell Text="{Binding Text}" Detail="{Binding Date}"
+                    />
+                
+            </DataTemplate>
+
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
